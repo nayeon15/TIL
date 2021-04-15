@@ -4,4 +4,4 @@
 + **Operating System**
 + **Network**
 + **Java**
-그 외 등등
+그 외 등등.
