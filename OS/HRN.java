@@ -22,7 +22,7 @@ import java.util.List;
                     return Float.compare(o2Priority, o1Priority); // 내림차순 정렬
                 }
             });
-            // 출력
+
             System.out.println(processes);
         }
     }
